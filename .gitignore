@@ -1,0 +1,6 @@
+
+*.parquet
+.DS_Store
+db/*
+*.pkl
+*.bin
