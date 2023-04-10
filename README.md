@@ -8,3 +8,8 @@ Here is the demo:
 
 https://user-images.githubusercontent.com/7882052/230826093-eaee1fcc-36bb-4a9d-91dc-17e1fea0a060.mp4
 
+## Setup
+
+`pip3 install -r requirements.txt`
+
+Added `export OPENAI_API_KEY={your-paid-for-openai-key}` to my bash environment via `open ~/.zshrc`
