@@ -13,3 +13,6 @@ https://user-images.githubusercontent.com/7882052/230826093-eaee1fcc-36bb-4a9d-9
 `pip3 install -r requirements.txt`
 
 Added `export OPENAI_API_KEY={your-paid-for-openai-key}` to my bash environment via `open ~/.zshrc`
+
+Background 
+https://github.com/openai/openai-cookbook/blob/main/examples/vector_databases/chroma/hyde-with-chroma-and-openai.ipynb
